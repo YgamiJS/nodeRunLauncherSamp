@@ -1,4 +1,4 @@
-<h1>NodeRun Launcher Samp</h1>
+<h1>Node&nbspRun&nbspLauncher&nbspSamp</h1>
 <h2>Инструкция по использованию</h2>
 <div>
 <p>
