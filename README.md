@@ -2,7 +2,7 @@
 <h2>Инструкция по использованию</h2>
 <div>
 <p>
-  Предполагается что у вас уже установлен Git и Node.js последней версии.
+  Предполагается что у вас уже установлен <a href="https://git-scm.com/download/">Git</a> и <a href="https://nodejs.org/en/">Node.js</a> последней версии.
 </p>
 <p>
   Откройте терминал и выполните команду git clone https://github.com/YgamiJS/nodeRunLauncherSamp.git .
