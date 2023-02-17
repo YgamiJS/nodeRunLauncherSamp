@@ -6,16 +6,16 @@
 </p>
 <p>
   Откройте терминал и выполните команду git clone https://github.com/YgamiJS/nodeRunLauncherSamp.git .
-  <img src="https://imgur.com/FkA5lEQ" alt="" />
+  <img src="https://i.imgur.com/FkA5lEQ.png" alt="" />
 </p>
 <p>
   Откройте редактор кода , выберите папку проекта NodeRunLauncherSamp , в терминале выполните команду npm install , зайдите в папку src и выберите файл index.js . 
-  <img src="https://imgur.com/lWknIO9" alt="" />
-  <img src="https://imgur.com/3l6zruE" alt="" />
-  <img src="https://imgur.com/o6MrWaC" alt="" />
+  <img src="https://i.imgur.com/lWknIO9.png" alt="" />
+  <img src="https://i.imgur.com/3l6zruE.png" alt="" />
+  <img src="https://i.imgur.com/o6MrWaC.png" alt="" />
 </p>
 <p>
   В файле index.js измените путь к моду (на примере используется ссылка на файл Visual Studio Code измените ее на файл запуска мода (название <strong>обезательно</strong> должно быть слитным)).
-  <img src="https://imgur.com/BHXdGT6" alt="" />
+  <img src="https://i.imgur.com/BHXdGT6.png" alt="" />
 </p>
 </div>
